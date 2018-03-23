@@ -1,0 +1,12 @@
+void fillArr(int *mas, int*len);
+void printArr(int *mas, int*len);
+void sumArr(int *mas, int *len);
+int NOK(int *n, int *m);
+int maxarr(int *mas, int *len);
+int  f(int *m2, int *m1, int *m0);
+int peregruj(int *a, int *b);
+int peregruj(int *a, int *b, int *c);
+int peregruj(float*d, float *f);
+int gipatenuza(double* a, double* b, double c, double q);
+int member(int *memb, int *dif, int n);
+int summa(int *sum, int *dif, int n);
